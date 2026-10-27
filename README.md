@@ -1,4 +1,4 @@
-# Atmospheric Quote Generator ⚡
+# Atmospheric Quote Generator 
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -13,15 +13,15 @@ An atmospheric, responsive Single Page Application built for the **IEEE-VIT Recr
 
 ---
 
-## 🔗 Live Links & Deliverables
+## Live Links & Deliverables
 
 - **Live Application**: [https://kevinquotegenerator.netlify.app/]
-- **GitHub Repository**: [https://github.com/KevinSolomon871/random-quote-generator](https://github.com/KevinSolomon871/random-quote-generator)
-- **Technical Report (Google Doc)**: [Insert your Public Google Doc Link here]
+- **GitHub Repository**: [https://github.com/KevinSolomon871/random-quote-generator]
+- **Technical Report (Google Doc)**:[https://docs.google.com/document/d/1N8QVfKZHh6_FetFW7m-SiqixTvZ-wB0Hy2D1N0-coCg/edit?usp=sharing]
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 ### 1. Resilient Data Engine (`useQuote` Hook)
 - **Zero-Blank-Screen Guarantee**: The UI never crashes or renders empty containers. If public APIs face CORS blocks, rate limiting, or network timeouts, the app gracefully switches to an internal fallback dataset (`fallbackQuotes.js`).
@@ -47,7 +47,7 @@ An atmospheric, responsive Single Page Application built for the **IEEE-VIT Recr
 
 ---
 
-## 📐 System Architecture
+## System Architecture
 
 ```text
  ┌────────────────────────────────────────────────────────────────────────┐
@@ -82,7 +82,7 @@ An atmospheric, responsive Single Page Application built for the **IEEE-VIT Recr
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 | :--- | :--- |
@@ -97,7 +97,7 @@ An atmospheric, responsive Single Page Application built for the **IEEE-VIT Recr
 
 ---
 
-## 📋 Task Requirements Compliance
+## Task Requirements Compliance
 
 | Rubric Criterion | Implementation Proof | Status |
 | :--- | :--- | :--- |
@@ -110,7 +110,7 @@ An atmospheric, responsive Single Page Application built for the **IEEE-VIT Recr
 
 ---
 
-## 🚀 Getting Started Locally
+## Getting Started Locally
 
 ### Prerequisites
 - Node.js (v18.x or higher recommended)
@@ -141,7 +141,7 @@ An atmospheric, responsive Single Page Application built for the **IEEE-VIT Recr
 
 ---
 
-## ⚙️ Build for Production
+## Build for Production
 
 To create an optimized production build:
 
@@ -157,7 +157,7 @@ npm run preview
 
 ---
 
-## 👤 Author
+## Author
 
 **C Kevin Solomon**  
 - **Degree**: B.Tech in Computer Science and Engineering Core  
